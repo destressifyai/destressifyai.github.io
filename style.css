@@ -8,7 +8,7 @@ body{
     position: fixed;
     background-color: #FFF;
     overflow: hidden;
-    border-bottom: #FF8C00;
+    border-bottom: #113FFF;
   }
   
   .topnav a {
@@ -22,12 +22,12 @@ body{
   }
   
   .topnav a:hover {
-    background-color: #FF8C00;
-    color: orange;
+    background-color: #113FFF;
+    color: blue;
   }
   
   .topnav a.active {
-    background-color: #FF8C00;
+    background-color: #113FFF;
     color: black;
   }
 
@@ -98,7 +98,7 @@ body{
   .hover:hover{
     text-align: left;
     size: 12px;
-    color: #FF8C00;
+    color: #113FFF;
   }
 
   .main_content{
